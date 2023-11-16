@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swiftdependency",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/devzahirul/SwiftDependency.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "9794bffeee21ab41e6de2be5f92003061fb686f0"
+      }
+    }
+  ],
+  "version" : 2
+}
